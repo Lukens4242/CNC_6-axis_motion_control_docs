@@ -39,3 +39,17 @@ You will need the following:
 * [GRBL Mega 5X fork](https://github.com/fra589/grbl-Mega-5X)
 
 # Construction
+
+Here are the colors I chose for things so that hopefully the images aren't too confusing.
+* Base Color - Black
+* Accent Color - Gold & Copper (I ran out of gold and had to sub copper for some parts)
+* CBC1 (vertical arm movement) - Red
+* CBC2 (horizontal arm movement) - Yellow
+* CBC3 (cam tilt) - Blue
+* CBC4 (cam pan) - Green
+* CBC5 (focus)- black
+* CBC6 (zoom)- black
+
+For each subsection I will list the hardware needed and add that to the overall BOM.
+
+## Main Slip Ring
