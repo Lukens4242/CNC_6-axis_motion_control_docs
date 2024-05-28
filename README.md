@@ -78,7 +78,7 @@ Top:
 Bottom:
 ![Bottom](images/slew_bearing_bottom.jpg)
 
-##Tripod Mounting Block
+## Tripod Mounting Block
 Now you can attach the tripod mounting block.
 
 Hardware Needed:
