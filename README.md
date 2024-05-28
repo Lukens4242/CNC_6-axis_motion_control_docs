@@ -15,7 +15,7 @@ There are several pieces that will be needed in order to build this poject.  I w
 * The writeup below explaining how to put all this together
 
 # 3D Printed Parts
-Here is a link to the [BOM of printed parts](/BOM 3d printed parts.ods).
+Here is a link to the [BOM of 3d printed parts.](https://github.com/Lukens4242/CNC_6-axis_motion_control_docs/blob/main/BOM%203d%20printed%20parts.ods)
 
 I organized things by several colors.  You will have the following that you can choose as you wish.  I color coded certain components to match up with the color of the release buttons caps, so less thinking was involved.  That is to say, I thought that pressing the blue release button and have it unlock the axis with the blue gears and components would be relatively intuitive.
 * Base color
