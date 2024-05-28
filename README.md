@@ -34,7 +34,7 @@ Note: I will be updating the small hardware section of this sheet as I consume c
 
 # Software
 You will need the following:
-* RPiOS or Ubuntu on a microSD card for a RPi
+* [RPiOS or Ubuntu on a microSD card for a RPi](https://www.raspberrypi.com/software/)
 * [Universal G-Code Sender](https://winder.github.io/ugs_website/)
 * [GRBL Mega 5X fork](https://github.com/fra589/grbl-Mega-5X)
 
