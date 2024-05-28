@@ -79,6 +79,7 @@ Bottom:
 ![Bottom](images/slew_bearing_bottom.jpg)
 
 Now you can attach the tripod mounting block.
+
 Hardware Needed:
 * 8x M3x30 screws
 * 8x M3 nuts
