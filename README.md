@@ -53,3 +53,5 @@ Here are the colors I chose for things so that hopefully the images aren't too c
 For each subsection I will list the hardware needed and add that to the overall BOM.
 
 ## Main Slip Ring
+
+
