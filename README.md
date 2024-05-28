@@ -1,6 +1,7 @@
-# CNC_6-axis_motion_control_docs - Why?
+# CNC_6-axis_motion_control_docs
 Documentation for construction of the CNC 6-axis motion controlled camera platform by DIW
 
+## Why am I doing this?
 This is my work to document what it takes to print, construct, wire, and configure the [CNC 6-axis motion controlled camera platform](https://www.thingiverse.com/thing:4652484) by **Do It Whenever**.
 
 He has a few really intriguing videos on YT as well that walk through why he did it and what it can do.
@@ -52,6 +53,28 @@ Here are the colors I chose for things so that hopefully the images aren't too c
 
 For each subsection I will list the hardware needed and add that to the overall BOM.
 
-## Main Slip Ring
+## Slew Bearing
 
+The slew bearing is made up of:
+* Bearing Race Inner Bottom
+* Bearing Race Inner Top
+* Bearing Race Outer
+* Nylon Spacer
+* 24x rollers
+
+
+I didn't have any nylon filament, so I printed the spacer out of PLA and sanded the various rubbing surfaces smooth.  I printed all of these at 35% grid infill with three exterior walls.  If I find that this doesn't work, I'll come back and let you know what I did to alleviate the situation.
+
+Hardware needed:
+* 8x M3x30 socket head cap screws
+* 16x M3 washers
+* 8x M3 nuts
+
+The screws get two washers each put on them and then they come up from the bottom, with the nuts on top.  Four of the screw holes don't have the proper recesses for screws.
+
+Top:
+[Top](images/slew_bearing_top.jpg)
+
+Bottom:
+[Bottom](images/slew_bearing_bottom.jpg)
 
