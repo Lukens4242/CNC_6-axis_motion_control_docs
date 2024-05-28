@@ -73,8 +73,8 @@ Hardware needed:
 The screws get two washers each put on them and then they come up from the bottom, with the nuts on top.  Four of the screw holes don't have the proper recesses for screws.
 
 Top:
-[Top](images/slew_bearing_top.jpg)
+![Top](images/slew_bearing_top.jpg)
 
 Bottom:
-[Bottom](images/slew_bearing_bottom.jpg)
+![Bottom](images/slew_bearing_bottom.jpg)
 
