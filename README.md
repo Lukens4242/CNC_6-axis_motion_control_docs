@@ -84,7 +84,7 @@ Hardware Needed:
 * 8x M3x30 screws
 * 8x M3 nuts
 
-Be sure to line up the large hole in the slew bearing along with the tripod mounting block.  Shown below is the underside of the tripod mounting block along with the hold you need to make sure you align.
+Be sure to line up the large hole in the slew bearing along with the tripod mounting block.  Shown below is the underside of the tripod mounting block along with the hole you need to make sure you align.
 
 ![mounting block](images/tripod_mount.jpg)
 
