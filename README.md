@@ -5,7 +5,7 @@ This is my work to document what it takes to print, construct, wire, and configu
 
 He has a few really intriguing videos on YT as well that walk through why he did it and what it can do.
 * [The greatest DIY MOTION CONTROL camera rig EVER - allegedly](https://www.youtube.com/watch?v=WNtC9EkYCYQ)
-* [If you have a 3D PRINTER - you can MAKE THIS motion controlled camera]((https://www.youtube.com/watch?v=UMwUnzjZ8Ao)
+* [If you have a 3D PRINTER - you can MAKE THIS motion controlled camera](https://www.youtube.com/watch?v=UMwUnzjZ8Ao)
 * [The greatest DIY MOTION CONTROL camera rig EVER | Part 2](https://www.youtube.com/watch?v=kPe2O8CkQAY)
 
 There are several pieces that will be needed in order to build this poject.  I will be constructing them as I go through it.  If you are looking at this on github, then you have all the work I've written as of this point.  I'll update sections as I have more information.
