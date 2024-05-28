@@ -10,8 +10,8 @@ He has a few really intriguing videos on YT as well that walk through why he did
 
 There are several pieces that will be needed in order to build this poject.  I will be constructing them as I go through it.  If you are looking at this on github, then you have all the work I've written as of this point.  I'll update sections as I have more information.
 * Printed Parts BOM
-* Mechanical (and electromechanical) Hardware BOM
-* Electronic Components BOM
+* Mechanical and Electrical Hardware BOM
+* Software
 * The writeup below explaining how to put all this together
 
 # 3D Printed Parts
@@ -24,6 +24,18 @@ I organized things by several colors.  You will have the following that you can 
 * Control Button Color #2
 * Control Button Color #3
 * Control Button Color #4
-* Control Button Color #5
-* Control Button Color #6
+* Control Button Color #5 (for focus gear, I used black to keep any odd reflections from appearing in the images.)
+* Control Button Color #6 (for zoom gear, I used black to keep any odd reflections from appearing in the images.)
 
+# Mechanical and Electromechanical Hardware BOM
+Here is a link to the [BOM of Hardware Components](https://github.com/Lukens4242/CNC_6-axis_motion_control_docs/blob/main/BOM%20Hardware.ods).
+
+Note: I will be updating the small hardware section of this sheet as I consume components during the build.
+
+# Software
+You will need the following:
+* RPiOS or Ubuntu on a microSD card for a RPi
+* [Universal G-Code Sender](https://winder.github.io/ugs_website/)
+* [GRBL Mega 5X fork](https://github.com/fra589/grbl-Mega-5X)
+
+# Construction
