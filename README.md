@@ -84,9 +84,13 @@ Now you can attach the tripod mounting block.
 Hardware Needed:
 * 8x M3x30 screws
 * 8x M3 nuts
+* 2x M8x35 hex bolts
 
 Be sure to line up the large hole in the slew bearing along with the tripod mounting block.  Shown below is the underside of the tripod mounting block along with the hole you need to make sure you align.
 
 ![mounting block](images/tripod_mount.jpg)
 
 
+Then we will assemble a pair of 8mm thumb wheel tripod hand screws each with an 8mm thumb wheel cap and a M8x35 hex bolt.  Theese will be used to secure the structure to the tripod.
+
+![tripod mount with screws](images/tripod_mount2.jpg)
