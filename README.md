@@ -90,7 +90,21 @@ Be sure to line up the large hole in the slew bearing along with the tripod moun
 
 ![mounting block](images/tripod_mount.jpg)
 
-
 Then we will assemble a pair of 8mm thumb wheel tripod hand screws each with an 8mm thumb wheel cap and a M8x35 hex bolt.  Theese will be used to secure the structure to the tripod.
 
 ![tripod mount with screws](images/tripod_mount2.jpg)
+
+## Turret Motor
+Hardware needed:
+* 4x M3x10 screws
+* NEMA 17 gearhead stepper motor
+* Spring
+* 2x M5x35 screws
+* 1x M4x25 screw
+* 8mm 16T gear
+
+The NEMA 17 gearhead stepper motor goes into its mount with four M3x10mm screws.  An M5x35 screw is used as the retaining post on this part, and a M4x25 screw is used to attach the motor mount to the turret base.  A 8mm 16tooth gear goes on the shaft.
+
+![turret motor mount](images/turret_motor.jpg)
+
+Next, we will use a M5x35 screw and a spring to assemble the X lower arm tensioner and another M5x35 screw to afix it to the turret base.
