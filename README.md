@@ -108,3 +108,7 @@ The NEMA 17 gearhead stepper motor goes into its mount with four M3x10mm screws.
 ![turret motor mount](images/turret_motor.jpg)
 
 Next, we will use a M5x35 screw and a spring to assemble the X lower arm tensioner and another M5x35 screw to afix it to the turret base.
+
+![turret motor mount](images/turret_motor2.jpg)
+
+![turret motor mount](images/turret_motor3.jpg)
