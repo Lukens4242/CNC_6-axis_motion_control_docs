@@ -98,7 +98,6 @@ Then we will assemble a pair of 8mm thumb wheel tripod hand screws each with an 
 Hardware needed:
 * 4x M3x10 screws
 * NEMA 17 gearhead stepper motor
-* Spring
 * 2x M5x35 screws
 * 1x M4x25 screw
 * 8mm 16T gear
@@ -107,8 +106,46 @@ The NEMA 17 gearhead stepper motor goes into its mount with four M3x10mm screws.
 
 ![turret motor mount](images/turret_motor.jpg)
 
-Next, we will use a M5x35 screw and a spring to assemble the X lower arm tensioner and another M5x35 screw to afix it to the turret base.
+Next, we will use a M5x35 screw to assemble the X lower arm tensioner and another M5x35 screw to afix it to the turret base.  Once the tensioner is attached to the base, tighten the screw on the end until it solidly holds the motor against the base, but also can be unlatched by hand.
 
 ![turret motor mount](images/turret_motor2.jpg)
 
 ![turret motor mount](images/turret_motor3.jpg)
+
+## A Riser Arm
+Hardware needed:
+* 2x M5x14 flat head screws
+* 2x M6x16 screws
+
+The first riser is attached to the turret base with two M5x14 and two M6x16 screws.  The arm with the A printed on it goes next to the motor mount.  
+
+![A riser arm](images/A_riser_arm.jpg)
+
+## A Axis Motor
+Hardware needed:
+* NEMA 17 gearhead stepper motor
+* 4x M3x8 screws
+* 2x M5x35 screws
+
+We will assemble the A axis motor mount from the arm motor mount, arm spur gear, and arm tensioner.  The motor is held in the mount by four M3x8 screws.  Then the tensioner is made with a M5x35 and then attached to the motor mount with another M5x35.
+
+![A motor mount](images/A_motor_mount.jpg)
+
+## Attaching the A motor mount to the riser
+Hardware needed:
+* 4x M3x14 screws
+* 4x M3 nuts
+
+The A motor mount is attached to our riser with the hardware noted above.  The mount should freely move up and down in the riser.
+
+![A motor mount](images/A_motor_mount2.jpg)
+
+## Second Riser
+Hardware needed:
+* 2x M5x14 flat head screws
+* 2x M6x16 screws
+
+Just like the other riser, this one goes on with the hardware noted above.
+
+![risers](images/risers.jpg)
+
