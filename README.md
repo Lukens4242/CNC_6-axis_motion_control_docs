@@ -149,3 +149,10 @@ Just like the other riser, this one goes on with the hardware noted above.
 
 ![risers](images/risers.jpg)
 
+## Turret Base
+Hardware needed:
+* 4x M6x16 screws
+
+Using the hardware above along with the aligned hole through the tripod mount and slew bearing, attach the base to the slew bearing.
+
+![turret base](images/turret_base.jpg)
