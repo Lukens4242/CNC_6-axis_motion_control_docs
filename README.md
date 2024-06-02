@@ -204,3 +204,13 @@ Above the A axis motor mount, slide a M5x40 screw as a horizontal cross bar.  Th
 ![A axis motor mount](images/a_axis_motor_mount.jpg)
 
 ![A axis motor mount](images/a_axis_motor_mount2.jpg)
+
+## Back Connecting Handle
+Hardware needed:
+* 2x M8x60 screws
+* 4x 608zz bearings
+
+Place the four bearings in the eyelets on either end of the back connecting handle.  Attach the back connecting handle to the rear of both 3/4in tubes.  Use a pair of 8mm pull knobs and 8mm thumb wheels.
+
+![back connecting handle](images/back_connecting_handle.jpg)
+
