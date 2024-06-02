@@ -163,12 +163,13 @@ Hardware needed:
 * 351mm length of 3/4in aluminum tube
 * M8x100 hex head bolt
 * M5x40 screw
+* M5 nut
 
 Start by inserting the two bearings into the side of the bottom arm bearing.  Then take a 351mm length of 3/4in tubing and put a pair of holes in it.  One is a 5mm holes 7.5mm from one end.  The other is a 8mm hole 135mm from the other end.  Both go all the way through the tube and are measured from the center of the holes.
 
 ![bottom arm bearing](images/bottom_arm_bearing.jpg)
 
-Put the tube through the center of the bottom arm bearing block, position them between the risers and insert a 100mm M8 hex head bolt with an 8mm thumb wheelon the other side.
+Put the tube through the center of the bottom arm bearing block, position them between the risers and insert a 100mm M8 hex head bolt with an 8mm thumb wheel on the other side.
 
 ![bottom arm bearing](images/bottom_arm_bearing2.jpg)
 
@@ -178,3 +179,28 @@ Afix a pivot arm to the 5mm hole at the end of the tube with a M5x40 screw and n
 
 ![bottom back pivot arm](images/bottom_back_pivot_arm.jpg)
 
+## A Axis Arm Gear
+Hardware needed:
+* 2x 608zz bearings
+* 351mm length of 3/4in aluminum tube
+* M8x80 hex head bolt
+* 2x M5x40 screw
+* M5 nut
+
+Begin by inserting the two bearing into the side of the A axis arm gear.  Then take a 351mm length of 3/4in tubing and put a pair of holes in it.  One is a 5mm holes 7.5mm from one end.  The other is a 8mm hole 135mm from the other end.  Both go all the way through the tube and are measured from the center of the holes.
+
+![A axis arm gear](images/a_axis_arm_gear.jpg)
+
+Put the tube through the center of the A axis arm gear and position it between the risers.  Use a M8x80 hex head bolt to afix them to the risers and put an 8mm thum wheel on the other side.
+
+![A axis arm gear](images/a_axis_arm_gear2.jpg)
+
+Use an M5x40 screw and nut to attach the back pivot arm to the back of the 3/4in tube.
+
+![back pivot arm](images/back_pivot_arm.jpg)
+
+Above the A axis motor mount, slide a M5x40 screw as a horizontal cross bar.  Then tighten the screw for the A axis motor mount tensioner so that the gears reliably engage, yet lose enough you can manually release the motor mount.
+
+![A axis motor mount](images/a_axis_motor_mount.jpg)
+
+![A axis motor mount](images/a_axis_motor_mount2.jpg)
