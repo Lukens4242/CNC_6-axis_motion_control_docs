@@ -163,7 +163,6 @@ Hardware needed:
 * 351mm length of 3/4in aluminum tube
 * M8x100 hex head bolt
 * M5x40 screw
-* M5 nut
 
 Start by inserting the two bearings into the side of the bottom arm bearing.  Then take a 351mm length of 3/4in tubing and put a pair of holes in it.  One is a 5mm holes 7.5mm from one end.  The other is a 8mm hole 135mm from the other end.  Both go all the way through the tube and are measured from the center of the holes.
 
