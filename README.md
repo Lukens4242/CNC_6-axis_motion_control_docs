@@ -214,3 +214,23 @@ Place the four bearings in the eyelets on either end of the back connecting hand
 
 ![back connecting handle](images/back_connecting_handle.jpg)
 
+## Arm Tubes
+Hardware needed:
+* 4x M3x4 screws (low prifile head, any size or length will work)
+* 2x 3/4in aluminum 351mm in length
+* 2x M5x40 screws
+* 2x M5 nuts
+* 8x M6x8mm screws
+
+Take the two 3/4in tubes.  7.5mm from one end, a 5mm hole needs to be drilled through.  At the other end, 30mm from the end drill and tap some M3 holes.  In these M3 holes we will put the M3x4 screws.  The specific size of hole and screws used are not important as long as the 3/4in tube with the screws attached can slide easily inside the 1in tubes.  These screws are meant to act as a stop, so that the 3/4in tubes don't slide all the way out of the tube inserts that attach them to the 1in tubes.
+
+![3/4in arm tubes](images/arm_tubes.jpg)
+
+Next, take the pivot arms and attach them to the other end of 3/4in tube with an M5 screw and nut.
+
+![3/4in arm tubes](images/arm_tubes2.jpg)
+
+In each of the four tube inserts being to thread in the M6 screws, but don't let them get exposed from the hole on the inside.  Put two of these on the 3/4in  tubes that are mounted in the turret.
+
+![tube inserts](images/arm_tubes3.jpg)
+
