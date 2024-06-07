@@ -220,7 +220,7 @@ Hardware needed:
 * 2x 3/4in aluminum 351mm in length
 * 2x M5x40 screws
 * 2x M5 nuts
-* 8x M6x8mm screws
+* 8x M4x12mm screws
 
 Take the two 3/4in tubes.  7.5mm from one end, a 5mm hole needs to be drilled through.  At the other end, 30mm from the end drill and tap some M3 holes.  In these M3 holes we will put the M3x4 screws.  The specific size of hole and screws used are not important as long as the 3/4in tube with the screws attached can slide easily inside the 1in tubes.  These screws are meant to act as a stop, so that the 3/4in tubes don't slide all the way out of the tube inserts that attach them to the 1in tubes.
 
@@ -230,7 +230,11 @@ Next, take the pivot arms and attach them to the other end of 3/4in tube with an
 
 ![3/4in arm tubes](images/arm_tubes2.jpg)
 
-In each of the four tube inserts being to thread in the M6 screws, but don't let them get exposed from the hole on the inside.  Put two of these on the 3/4in  tubes that are mounted in the turret.
+In each of the four tube inserts drill through the inner collar with a 6mm bit.  On each of the 1in tubes for the arm, drill and tap a pair of M4 holes on opposite sides of the tube on both ends.  The fittings can crack if you apply screw pressure to them, so the oversized holes on them are so the M4 screws don't apply pressure to them.  In short, the M4 screw will go through the outer collar of the fitting losely, thread into the 1in tube, go through the inner collar of the fitting losely, and then pinch the 3/4in tube.
 
 ![tube inserts](images/arm_tubes3.jpg)
+
+![tube inserts](images/arm_tubes4.jpg)
+
+![tube inserts](images/arm_tubes4.jpg)
 
