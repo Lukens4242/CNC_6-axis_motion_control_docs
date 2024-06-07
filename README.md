@@ -236,5 +236,6 @@ In each of the four tube inserts drill through the inner collar with a 6mm bit. 
 
 ![tube inserts](images/arm_tubes4.jpg)
 
-![tube inserts](images/arm_tubes4.jpg)
+![tube inserts](images/arm_tubes5.jpg)
 
+![tube inserts](images/arm_tubes6.jpg)
