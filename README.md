@@ -287,3 +287,11 @@ Use the 12 screws to attach the left and right case shells.
 
 ![case shell](images/case_shell.jpg)
 
+## Back Lid
+Hardware needed:
+* 2x M5x14 screws
+
+Attach the back lid to the frame with two M5 screws.
+
+![back lid](images/back_lid.jpg)
+
