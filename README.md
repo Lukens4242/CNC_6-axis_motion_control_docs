@@ -239,3 +239,11 @@ In each of the four tube inserts drill through the inner collar with a 6mm bit. 
 ![tube inserts](images/arm_tubes5.jpg)
 
 ![tube inserts](images/arm_tubes6.jpg)
+
+## ZY Connecting Arm
+Hardware needed:
+* 4x 608zz bearings
+* 2x M8x60 screws
+
+Put the bearings into the eyelets of the ZY Connecting arm and then attach it to the end of the turret arm with the M8 screws, 8mm thumb wheels, and pull knobs.
+
