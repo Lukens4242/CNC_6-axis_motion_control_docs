@@ -247,3 +247,4 @@ Hardware needed:
 
 Put the bearings into the eyelets of the ZY Connecting arm and then attach it to the end of the turret arm with the M8 screws, 8mm thumb wheels, and pull knobs.
 
+![zy connecting arm](images/zy_connecting_arm.jpg)
