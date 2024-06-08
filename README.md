@@ -248,3 +248,42 @@ Hardware needed:
 Put the bearings into the eyelets of the ZY Connecting arm and then attach it to the end of the turret arm with the M8 screws, 8mm thumb wheels, and pull knobs.
 
 ![zy connecting arm](images/zy_connecting_arm.jpg)
+
+## Switch Mount and Case Blank Cover
+Hardware needed:
+* 4x M3x10 screws
+* 4x M3 nuts
+* 4x M2x12 screws
+* 4x M2 nuts
+
+Use The M3 components to attach the blank plate to the side of the left shell side.  Use the M2 components to attach the switch mount.
+
+![switch mount](images/switch_mount.jpg)
+
+## Battery Mount
+Hardware needed:
+* 2x M5x14 screws
+
+Use the screws to attach the battery mount to the weight back frame.
+
+![battery mount](images/battery_mount.jpg)
+
+## Case Frame
+Hardware needed:
+* 4x M4x10 screws
+* 2x M6x8 screws
+
+On the weight back frame, add the weight container and its cap into the circular impression.  Add the weight front frame, add the longest of the 1in tubes and secure it with a pair of M6x8mm screws Add the controller mount into the dovtails and use the M3 screws to attach the controller mount to both of the frame pieces.
+
+![case frame](images/case_frame.jpg)
+
+![case frame](images/case_frame2.jpg)
+
+## Case Shell
+Hardware needed:
+* 12x M5x14 screws
+
+Use the 12 screws to attach the left and right case shells.
+
+![case shell](images/case_shell.jpg)
+
