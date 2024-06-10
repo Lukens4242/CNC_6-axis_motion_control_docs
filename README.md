@@ -330,7 +330,7 @@ Hardware needed:
 * M8x80 hex head screw
 * M8 nut
 
-Slide the counterweight through the back of the arm, through the center pivot andc into the locking counterweight support.  Secure it there with the M5 screw and nut.  Using an 8mm thumb wheel, the M8 screw, and M8 nut... use that to tighten the counterweight assembly to the rest of the arm.  When you undo this thumb wheel, the weight should slide forward and back in the rest of the assembly.
+Slide the counterweight through the back of the arm, through the center pivot and into the locking counterweight support.  Secure it there with the M5 screw and nut.  Using an 8mm thumb wheel, the M8 screw, and M8 nut... use that to tighten the counterweight assembly to the rest of the arm.  When you undo this thumb wheel, the weight should slide forward and back in the rest of the assembly.
 
 ![counterweight assembly](images/counterweight_assy.jpg)
 
