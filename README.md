@@ -315,3 +315,11 @@ Run the nut up through the data top mount, put the lower portion of the cable db
 
 ![cable db connector](images/cable_db_connector2.jpg)
 
+## Data Top Cover
+Hardware needed:
+* 2x M3x16 screws
+
+Attach the data top cover with a pair of M3 screws.
+
+![data top cover](images/data_top_cover.jpg)
+
