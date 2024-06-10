@@ -295,3 +295,23 @@ Attach the back lid to the frame with two M5 screws.
 
 ![back lid](images/back_lid.jpg)
 
+## Data Top Mount
+Hardware needed:
+* 2x M4x8 screws
+* 2x M4x12 screws
+
+Attach the data top mount with the four screws.  The 8mm ones go into the recessed holes.
+
+![data top mount](images/data_top_mount.jpg)
+
+## Cable DB Connector
+Hardware needed:
+* M4x40 screw
+* 2x M4 nuts
+
+Run the nut up through the data top mount, put the lower portion of the cable db connector over it and secure with a nut.  Put on the lid and secure with a nut or wingnut.
+
+![cable db connector](images/cable_db_connector.jpg)
+
+![cable db connector](images/cable_db_connector2.jpg)
+
