@@ -273,7 +273,7 @@ Hardware needed:
 * 4x M4x10 screws
 * 2x M6x8 screws
 
-On the weight back frame, add the weight container and its cap into the circular impression.  Add the weight front frame, add the longest of the 1in tubes and secure it with a pair of M6x8mm screws Add the controller mount into the dovtails and use the M3 screws to attach the controller mount to both of the frame pieces.
+Take your long length of 1in tube and cross drill it with a 5mm bit so that it fits inside the locking counterweight support.  Then put the locking couterweight support on the upper length of 1in tubing on the arm.  On the weight back frame, add the weight container and its cap into the circular impression.  Add the weight front frame, add the longest of the 1in tubes and secure it with a pair of M6x8mm screws Add the controller mount into the dovtails and use the M3 screws to attach the controller mount to both of the frame pieces.
 
 ![case frame](images/case_frame.jpg)
 
@@ -322,4 +322,15 @@ Hardware needed:
 Attach the data top cover with a pair of M3 screws.
 
 ![data top cover](images/data_top_cover.jpg)
+
+## Adding the Counterweight to the Arm
+Hardware needed:
+* M5x60 screw
+* M5 nut
+* M8x80 hex head screw
+* M8 nut
+
+Slide the counterweight through the back of the arm, through the center pivot andc into the locking counterweight support.  Secure it there with the M5 screw and nut.  Using an 8mm thumb wheel, the M8 screw, and M8 nut... use that to tighten the counterweight assembly to the rest of the arm.  When you undo this thumb wheel, the weight should slide forward and back in the rest of the assembly.
+
+![counterweight assembly](images/counterweight_assy.jpg)
 
