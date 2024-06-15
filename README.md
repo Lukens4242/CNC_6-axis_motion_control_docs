@@ -334,3 +334,13 @@ Slide the counterweight through the back of the arm, through the center pivot an
 
 ![counterweight assembly](images/counterweight_assy.jpg)
 
+## Cam Head - Lower Bar
+Hardware needed:
+* 2x M5x35 bolt
+* 2x M5 nuts
+* 1/4in-20 x 2.25in bolt
+
+Start by cutting a 20x20mm square tube down to 216.5mm.  On either end you will drill a horizontal 5mm hole.  In the center you will drive a vertical 1/4in hole.  Slide the cam base plate on the bar and afix it with the 1/4in screw.  This will be the screw that holds the camera to the rig.  The z rotation gear and z rotation arm are attached to the bar with the M5 bolts and nuts.
+
+![cam head bar](images/cam_head_bar.jpg)
+
