@@ -340,7 +340,26 @@ Hardware needed:
 * 2x M5 nuts
 * 1/4in-20 x 2.25in bolt
 
-Start by cutting a 20x20mm square tube down to 216.5mm.  On either end you will drill a horizontal 5mm hole.  In the center you will drive a vertical 1/4in hole.  Slide the cam base plate on the bar and afix it with the 1/4in screw.  This will be the screw that holds the camera to the rig.  The z rotation gear and z rotation arm are attached to the bar with the M5 bolts and nuts.
+Start by cutting a 20x20mm square tube down to 216.5mm.  On either end you will drill a horizontal 5mm hole.  In the center you will drive a vertical 1/4in hole.  Slide the cam base plate on the bar and afix it with the 1/4in screw.  This will be the screw that holds the camera to the rig.  The z rotation gear and z rotation arm are attached to the bar with the M5 bolts and nuts.  I took the 8mm thumb wheel for hex head bolts and scaled it down to 85% and I'm using that to allow for hand tightening of the 1/4in screw to the camera.
 
 ![cam head bar](images/cam_head_bar.jpg)
+
+## Focus and Zoom Motors
+Hardware needed:
+* 8x M2x4 screws
+
+Add the FF parts to a pair of the NEMA 8 gearhead motors with the M2 screws.
+
+![focus motor](images/focus_motor.jpg)
+
+## FF on the Lower Bar
+Hardware needed:
+* M8x150 screw
+* M8 nut
+
+While you could probably get away with a M8x120 screw, I erred on the side of caution and wanted to make sure I had enough adjustment available.  Take the M8 screw and slide on the ff handle and right ff motor mount.  Then slide it through the cam base plate and then add the left ff motor and a nut.
+
+![ff mount](images/ffmount.jpg)
+
+
 
